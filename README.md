@@ -9,6 +9,8 @@ The data is used to answer the following questions:
 * An empirical observation known as Zipf’s law is often used to describe the distribution of word
 frequencies in text corpora. Do you see evidence of Zipf’s law in the summaries?
 
+## Please download and view HTML version of "Finalized Programming Assessment" for original and best formatting
+
 The "Separate Questions" folder contains a notebook for each prompt and an accompanying exploration notebook for each prompt.
 
 The final analysis is in the top of the repo titled "Finalized Programming Assessment".
