@@ -8,3 +8,7 @@ The data is used to answer the following questions:
 * What words are characteristic of the movie summaries in those genres?
 * An empirical observation known as Zipf’s law is often used to describe the distribution of word
 frequencies in text corpora. Do you see evidence of Zipf’s law in the summaries?
+
+The "Separate Questions" folder contains a note book for each prompt and an accompanying exploration notebook for each prompt.
+
+The final analysis is in the top of the repo titled "Finalized Programming Assessment".
